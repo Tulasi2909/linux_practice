@@ -1,2 +1,2 @@
 this is my first git practice
-edited in notepad - dev1
+edited in notepad - data
