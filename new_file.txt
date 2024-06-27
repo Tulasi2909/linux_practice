@@ -2,3 +2,4 @@
 
 echo "created new file in  new branch"
 echo "created new file in  new merge branch"
+echo "created edited in  rebase"
